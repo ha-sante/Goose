@@ -1,0 +1,6 @@
+vendor
+.env
+tests.bat
+local.env
+
+ideas
